@@ -33,3 +33,9 @@ obtenerPersonaje(1, function (personaje) {
         })
     })
 })
+
+// for (var i = 1; i <= 10; i++) {
+//     obtenerPersonaje(i, function (personaje) {
+//              console.log(`Hola, yo soy ${personaje.name}`)
+// })
+// }
